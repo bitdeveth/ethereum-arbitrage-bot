@@ -15,7 +15,11 @@ This infrastructure empowers developers and users to send bundles of transaction
 
 ## How to launch your own arbitrage bot
 ### WATCH VIDEO TUTORIAL FOR EASY GUIDE HERE 👇👇👇
-[![YouTube](http://i.ytimg.com/vi/cepf_FIdcB8/hqdefault.jpg)](https://www.youtube.com/watch?v=cepf_FIdcB8)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=cepf_FIdcB8">
+    <img src="http://i.ytimg.com/vi/cepf_FIdcB8/hqdefault.jpg" alt="YouTube">
+  </a>
+</div>
 
 # Message me on Telegram if you have any questions: https://t.me/bitdev_eth
 
