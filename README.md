@@ -15,9 +15,7 @@ This infrastructure empowers developers and users to send bundles of transaction
 
 ## How to launch your own arbitrage bot
 <div align="center">
-  <span style="color: green; font-weight: bold;">
-    WATCH VIDEO TUTORIAL FOR EASY GUIDE HERE
-  </span>
+  <strong><font color="green">WATCH VIDEO TUTORIAL FOR EASY GUIDE HERE</font></strong>
 </div>
 <div align="center">  👇👇👇 </div>
 <div align="center">
