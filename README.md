@@ -14,9 +14,9 @@ Flashbot aims to resolve issues related to MEV, such as frontrunning (snagging t
 This infrastructure empowers developers and users to send bundles of transactions directly to Ethereum miners, bypassing the standard route via transaction pools. These bundles carry information about multiple transactions that need to be executed in a specific order, providing miners the choice to include or reject these bundles according to their preferences and objectives.
 
 ## How to launch your own arbitrage bot
+<div align="center">  ### WATCH VIDEO TUTORIAL FOR EASY GUIDE HERE </div>
+<div align="center">  👇👇👇 </div>
 <div align="center">
-  ### WATCH VIDEO TUTORIAL FOR EASY GUIDE HERE 
-  👇👇👇
   <a href="https://www.youtube.com/watch?v=cepf_FIdcB8">
     <img src="http://i.ytimg.com/vi/cepf_FIdcB8/hqdefault.jpg" alt="YouTube">
   </a>
