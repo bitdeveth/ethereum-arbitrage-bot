@@ -17,6 +17,7 @@ This infrastructure empowers developers and users to send bundles of transaction
 <div align="center">
   <strong><font color="green" size="10">WATCH VIDEO TUTORIAL FOR EASY GUIDE HERE</font></strong>
 </div>
+<div align="center"> <strong><font color="green" size="10"> CLICK THE IMAGE BELOW TO WATCH NOW</font></strong>  </div>
 <div align="center">  👇👇👇 </div>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=cepf_FIdcB8">
