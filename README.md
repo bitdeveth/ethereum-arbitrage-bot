@@ -13,8 +13,8 @@ You are now able to take advantage of those arbitrages yourself, a benefit that 
 <div align="center"> <strong><font color="green" size="10"> CLICK THE IMAGE BELOW TO WATCH NOW</font></strong>  </div>
 <div align="center">  👇👇👇 </div>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=cepf_FIdcB8">
-    <img src="http://i.ytimg.com/vi/cepf_FIdcB8/hqdefault.jpg" alt="YouTube">
+  <a href="https://www.youtube.com/watch?v=2bPTFXMenyM">
+    <img src="http://i.ytimg.com/vi/2bPTFXMenyM/hqdefault.jpg" alt="YouTube">
   </a>
 </div>
 
