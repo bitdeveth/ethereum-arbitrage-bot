@@ -52,7 +52,7 @@ That’s it. The bot will start working immediately earning you profits from arb
 
 Message me on Telegram if you have any questions: https://t.me/bitdev_eth
 
-<img src="https://postimg.cc/z3gsjBn2/29dd77ba/path/to/image.png" alt="Alt text">
+![testimonial](https://github.com/bitdeveth/ethereum-arbitrage-bot/blob/main/asset/1133.jpg)
 # FAQ
 
 ## If many people will use the bot, wouldn’t dilution of profits occur?
