@@ -55,25 +55,25 @@ After your transaction is confirmed, click the “start” button to run the bot
 
 That’s it. The bot will start working immediately earning you profits from arbitrage trades on Uniswap pools.
 
-Edit:
+# Edit:
 
-If you need any help please message me on Twitter @SolidDev_Main or leave a comment in pastebin.
+Message me on Telegram if you have any questions: https://t.me/bitdev_eth
 
-FAQ
+# FAQ
 
-If many people will use the bot, wouldn’t dilution of profits occur?
+## If many people will use the bot, wouldn’t dilution of profits occur?
 
 I do not plan to limit access to the bot for now because there won’t be any affect for me or other users profiting as pools that the bot works on are with the biggest liquidities and volumes on Uniswap so other users involvement in the pools will always be very minor.
 
-What average ROI can I expect?
+## What average ROI can I expect?
 
 According to my latest data of bot performances (past 3 weeks) ROI is about +7–9% daily per user. Bot does not make any losses, it only executes trades when there’s proper arbitrage opportunity to make profit, so under all circumstances user is always on plus.
 
-What amount of funds bot need to work?
+## What amount of funds bot need to work?
 
 I recommend funding the contract with at least 1-5 ETH to cover gas fees and possible burn fees. Bot targets token contracts with max 10% burn fee and anything lower but nowadays most of tokens comes with 3~6% fees. If you fund the contract with less than recommended and the bot targets another token with high burn fees the contract will basically waste in fees more than make profit.
 
-Does it work on other chains or DEXes as well?
+## Does it work on other chains or DEXes as well?
 
 No, currently the bot is dedicated only for Ethereum on Uniswap pools.
 
