@@ -1,4 +1,4 @@
-# MEV-Bot
+# ETHEREUM SLIPPAGE BOT (Check Video Tutorial Below)
 
 ### 💡 Mining Extractable Value (MEV) offers a lucrative avenue for income generation derived from unconfirmed transactions in the mempool. Leveraging the cutting-edge infrastructure of Flashbot, you can earn passive income by exploiting MEV.
 
